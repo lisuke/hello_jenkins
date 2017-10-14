@@ -1,2 +1,2 @@
 all:
-	echo test > hello_jenkins
+	gcc -o hello_jenkins main.c
